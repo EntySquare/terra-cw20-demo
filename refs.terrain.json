@@ -1,0 +1,10 @@
+{
+  "localterra": {
+    "counter": {
+      "codeId": "15",
+      "contractAddresses": {
+        "default": "terra1ex25jeq7ry7yw6lze69rp3z2jg3yednwdxlncy"
+      }
+    }
+  }
+}
